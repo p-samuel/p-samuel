@@ -9,7 +9,7 @@ Wellcome to my github page!
 I'm a fullstack developer (mostly backend) currently based in RJ, Brazil. 
 <br/>
 
-These are some things which I often use in my daily work
+Some of the things which I often mess with...
 <br/>
 
 <img src="img/delphi.svg" width="50px" alt="Delphi"><img src="img/nestjs.svg" width="50px" alt="NestJS">
