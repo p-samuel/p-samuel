@@ -1,10 +1,3 @@
-
-<div align="center">
-
-## Hi there 👋🏻
-
-Wellcome to my github page!
-
 ## Contact
 
 🔗 Reach me out through my [LinkedIn](https://www.linkedin.com/in/samuel-r-o/).
