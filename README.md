@@ -3,24 +3,7 @@
 
 ## Hi there 👋🏻
 
-
 Wellcome to my github page!
-
-I'm a fullstack developer (mostly backend) currently based in RJ, Brazil. 
-<br/>
-
-Some of the things which I often mess with...
-<br/>
-
-<img src="img/delphi.svg" width="50px" alt="Delphi"><img src="img/nestjs.svg" width="50px" alt="NestJS">
-<img src="img/typescript.svg" width="50px" alt="TypeScript">
-<img src="img/nextjs.svg" width="50px" alt="NextJS">
-<img src="img/react.svg" width="50px" alt="React">
-<img src="img/firebirdsql.svg" width="50px" alt="FirebirdSQL">
-<img src="img/postgres.svg" width="50px" alt="PostgreSQL">
-<img src="img/macos.png" width="50px" alt="MacOS">
-<img src="img/windows10.svg" width="50px" alt="Windows 10">
-</div>
 
 ## Contact
 
