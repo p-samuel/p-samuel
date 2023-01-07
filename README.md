@@ -2,7 +2,7 @@
 
 🔗 Reach me out through my [LinkedIn](https://www.linkedin.com/in/samuel-r-o/).
 
-🔗 My page in Portuguese at [Medium](https://medium.com/@afnsldd).
+🔗 My page in Portuguese at [Medium](https://medium.com/@samuel-ro).
   
 <div align="center">
 
