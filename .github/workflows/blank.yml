@@ -20,7 +20,7 @@ jobs:
     - name: Deploy Stage
       uses: fjogeleit/http-request-action@v1
       with:
-        url: 'https://ntfy.sh/dazz-predator-strip-add-chat/json'
+        url: 'https://ntfy.sh/dazz-predator-strip-add-chat'
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json"}'
         data: '{"title":"🌟 Stargazer alert", "message":"You received a new star in you readme profile"}'
