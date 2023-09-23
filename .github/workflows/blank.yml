@@ -23,4 +23,4 @@ jobs:
         url: 'https://ntfy.sh/'
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json"}'
-        data: '{"topic":"dazz-predator-strip-add-chat", "title":"🚀 Deployment Successfull", "message":"The deployment for your project has been well succeed"}'
+        data: '{"topic":"dazz-predator-strip-add-chat", "title":"Profile Readme🔍", "message":"You have updated your profile readme. Congratulations 🙂"}'
